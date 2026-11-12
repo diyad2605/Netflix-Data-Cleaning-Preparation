@@ -1,0 +1,12 @@
+Metric,Before Cleaning,After Cleaning
+Total Records,8807,8807
+Total Columns,12,14
+Missing Values,4307,10
+Exact Duplicate Records,0,0
+Duplicate Show IDs,0,0
+Missing Director,2634,0
+Missing Country,831,0
+Missing Cast,825,0
+Missing Rating,4,0
+Missing Duration,3,0
+Incorrect Duration Units,3,0
